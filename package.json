@@ -1,0 +1,23 @@
+{
+  "name": "quickbooks-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbadamsjr/quickbooks-service.git"
+  },
+  "author": "admin@smartideasllc.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbadamsjr/quickbooks-service/issues"
+  },
+  "homepage": "https://github.com/rbadamsjr/quickbooks-service#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "node-quickbooks": "^2.0.21"
+  }
+}
